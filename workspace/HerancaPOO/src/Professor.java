@@ -1,4 +1,4 @@
-public class Professor extends Pessoa {
+public class Professor extends Pessoa { //as características e comportamentos da Classe Pessoa agora são herdados pela Classe Professor
 
 	private double salario;
 	private String nomeCurso;
